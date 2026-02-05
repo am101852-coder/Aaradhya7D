@@ -1,43 +1,19 @@
- /* Change the background of the entire visible page */
-
-}
-
-/* Style for all paragraphs */
-p {
-    color: white;
-    font-size: 16px;
-    font-family: 'Times New Roman', serif;
-}
-
-/* Style for the main heading */
 /* Change the background of the entire visible page */
 body {
-    background-color: #6a95d7ff(6, 59, 129); /* light blue */
+    background-color: #6a95d7ff; /* Very light blue */
 }
 
 /* Style for all paragraphs */
 p {
-    color: white;
+    color: black;
     font-size: 16px;
     font-family: 'Times New Roman', serif;
 }
 
 /* Style for the main heading */
-h1 {    
-color: white;
-     
-     text-align: center; /* Puts the heading in the middle */
-    border: 2px solid white; /* Adds a white border around the heading */
+h1 {
+    text-align: center; /* Puts the heading in the middle */
+    border: 2px black; /* Adds an black border around the heading */
     padding: 10px; /* Adds space inside the border */
 
-}
-
-    h2 {    
-color: white;
-     
-     
-
-    }
-
-   h1 {    
-color: white;
+  }
