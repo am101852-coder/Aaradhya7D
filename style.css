@@ -1,6 +1,5 @@
  /* Change the background of the entire visible page */
-body {
-    background-color: rgb(6, 59, 129); /* Dark blue */
+
 }
 
 /* Style for all paragraphs */
@@ -13,7 +12,7 @@ p {
 /* Style for the main heading */
 /* Change the background of the entire visible page */
 body {
-    background-color: rgb(6, 59, 129); /* Dark blue */
+    background-color: #d7c16aff(6, 59, 129); /* light gold */
 }
 
 /* Style for all paragraphs */
